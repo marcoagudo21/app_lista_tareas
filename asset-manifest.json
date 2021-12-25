@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/app_lista_tareas/static/css/main.d5d901a1.css",
+    "main.js": "/app_lista_tareas/static/js/main.c3b4d0c5.js",
+    "index.html": "/app_lista_tareas/index.html",
+    "main.d5d901a1.css.map": "/app_lista_tareas/static/css/main.d5d901a1.css.map",
+    "main.c3b4d0c5.js.map": "/app_lista_tareas/static/js/main.c3b4d0c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5d901a1.css",
+    "static/js/main.c3b4d0c5.js"
+  ]
+}
